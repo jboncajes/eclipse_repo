@@ -1,5 +1,5 @@
 package org.ssglobal.training.codes.arrays;
-
+// Sample edit for GIT
 public class SampleArrays {
 	
 //	public char[] letters = new char[5]; 
